@@ -18,3 +18,11 @@ padding-right: 10px;
 padding-inline: 10px;
 padding-block: 2px;
 }
+
+.barra{
+  padding: 5px;
+}
+
+.float-xl-end{
+padding-inline: 20px;
+}
