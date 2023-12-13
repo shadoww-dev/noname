@@ -9,7 +9,19 @@
 # 404 📚
 - Error page Error page when a page won't take the user anywhere. 
 
+# LIST OF GOALS TO COMPLETE.
+This is only there to help me.
 
-
-
-_I promise to improve the reading of the code and the organization in the future, in the development of this website I am still organizing myself little by little._
+Get this project off the ground | ✅ 
+Change the domain to something more "simple" | ❌
+Organize the source code of the entire project (HTML, CSS and JavaScript). | ❌
+--- | ❌
+--- | ❌
+--- | ❌
+--- | ❌
+--- | ❌
+--- | ❌
+--- | ❌
+--- | ❌
+--- | ❌
+--- | ❌
