@@ -1,5 +1,5 @@
 # Website | Blog for Noname (bot discord).
-The following is a brief summary explaining the function and main idea of this project.
+- - The following is a brief summary explaining the function and main idea of this project.
 
 Existing pages in the project
 # Noname 
