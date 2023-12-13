@@ -1,5 +1,5 @@
 # Existing pages in the project 📂📂📂
-- [Noname](https://shadoww-dev.github.io/noname/static/noname)Page📚
+- [Noname](https://shadoww-dev.github.io/noname/static/noname) Page📚
 - Posts Page  Updates to noname, where I inform you in more detail about its entire function. In addition to using it as a blog to tell my evolution as a programmer.
 - [Index](https://shadoww-dev.github.io/noname/static/index) Page📚
 - Home page Created just to help in the localization of this whole huge project (I'm predicting the future). -->
