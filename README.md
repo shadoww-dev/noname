@@ -12,6 +12,6 @@
 # LIST OF GOALS TO COMPLETE.
 This is only there to help me.
 - Get this project off the ground | ✅ 
-Change the domain to something more "simple" | ❌
-Organize the source code of the entire project (HTML, CSS and JavaScript). | ❌
+- Change the domain to something more "simple" | ❌
+- Organize the source code of the entire project (HTML, CSS and JavaScript). | ❌
 
